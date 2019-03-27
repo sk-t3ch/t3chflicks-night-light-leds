@@ -1,7 +1,7 @@
 /*
    T3chFlicks - Motion Sensing Under Bed Lighting
    Free to use and distribute.
-   Find the tutorial and parts list at https://t3chflicks.com/shop/kit/motion-sensing-bed-night-light/
+   Find the tutorial and parts list at https://t3chflicks.com/shop/kit/motion-sensing-under-bed-lights/
 */
 
 #include "FastLED.h"
