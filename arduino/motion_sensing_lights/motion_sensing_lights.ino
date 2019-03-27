@@ -5,14 +5,14 @@
 */
 
 #include "FastLED.h"
-#define LED_DATA_PIN 2
+#define LED_DATA_PIN 9
 #define NUM_LEDS 250
 CRGB leds[NUM_LEDS];
 
 int onTime = 30*1000; // 30 seconds
-int motion_sensor_left = 3;
-int motion_sensor_right = 4;
-int motion_sensor_front = 5;
+int motion_sensor_left = 10;
+int motion_sensor_right = 11;
+int motion_sensor_front = 12;
 int fadeTimeDiff = 50;
 
 void setup() {
@@ -55,7 +55,3 @@ void fadeOut() {
   }
   FastLED.show();
 }
-
-
-
-
