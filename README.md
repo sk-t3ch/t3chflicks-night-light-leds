@@ -21,6 +21,16 @@ Motion sensing night lights installed discreetly under your bed provide low-leve
 
  [![Everything Is AWESOME](./yt.png)](https://www.youtube.com/watch?v=B8dz6XqP7ao "Youtube Video")
 
+---
+
+## 💡 Product Showcase
+> ![Product](./teaser.png)
+* 3 Motion sensor positions
+* Large dim light activates when motion is detected
+* Motion sensor 3d print enclosure
+* Storage box 3d print enclosure
+* Easy to use with HomeAssistant
+
 
 ---
 
