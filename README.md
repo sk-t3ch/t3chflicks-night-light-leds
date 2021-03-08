@@ -17,9 +17,9 @@ Motion sensing night lights installed discreetly under your bed provide low-leve
 
 [![Generic badge](https://img.shields.io/badge/Blog_Post-Medium-blue.svg)](https://t3chflicks.medium.com/)
 
-[![Generic badge](https://img.shields.io/badge/Youtube-Video-red.svg)](https://www.youtube.com/watch?v=B8dz6XqP7ao)
+[![Generic badge](https://img.shields.io/badge/Youtube-Video-red.svg)](https://www.youtube.com/watch?v=nd3-q7_o6bg)
 
- [![Everything Is AWESOME](./yt.png)](https://www.youtube.com/watch?v=B8dz6XqP7ao "Youtube Video")
+ [![Everything Is AWESOME](./yt.png)](https://www.youtube.com/watch?v=nd3-q7_o6bg "Youtube Video")
 
 ---
 
