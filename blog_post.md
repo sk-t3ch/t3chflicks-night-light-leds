@@ -97,7 +97,7 @@ Connect the live (red) and neutral (blue) wires from the switch to the live and 
 
 The power supply has output connections for 5V and ground (see diagram). Take the Arduino and cut a power wire (conventionally red, but whatever colour you are using) approximately 8cm long.
 
-Connect the Arduino to the power supply by screwing one end of the power wire into the ‘5V’ connection point and soldering the other end to the ‘VIn’ on the Arduino.
+Connect the Arduino to the power supply by screwing one end of the power wire into the ‘5V’ connection point and soldering the other end to the ‘5V’ on the Arduino.
 
 Repeat the process with a ground (black, or whatever colour you have chosen) wire, connecting ‘GND’ on the power supply and Arduino.
 
